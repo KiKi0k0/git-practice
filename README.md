@@ -3,4 +3,4 @@
 test
 new-featureで変更
 no-fast-forward
-conflict mainで変更(コンフリクト発生)
+conflictで変更
