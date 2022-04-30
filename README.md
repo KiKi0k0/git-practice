@@ -5,3 +5,5 @@ new-featureで変更
 no-fast-forward
 conflictで変更
 p4merge install
+
+変更stage2
